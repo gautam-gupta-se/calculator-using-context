@@ -43,16 +43,17 @@ Make sure you have the following installed:
    ```
 2. Navigate to the project directory:
    
-  ```bash
-  cd react-calculator-billing-app
-```
+    ```bash
+    cd react-calculator-billing-app
+    ```
 3. Install dependencies:
    
-  ```bash
-  npm install
-```
-###
+    ```bash
+    npm install
+    ```
+### Usage
 1.Start the development server:
 
-   ```bash
-   npm start
+     ```bash
+     npm start
+     ```
