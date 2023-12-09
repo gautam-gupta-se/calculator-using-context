@@ -1,27 +1,45 @@
-React Calculator and Billing App
+# React Calculator and Billing App
+
 This project is a simple React application that includes a calculator and a billing module. It's designed for learning purposes and demonstrates the use of the React Context API for state management.
 
+## Table of Contents
 
-/components: Contains individual React components, such as the Calculator and Billing components.
-/context: Includes Context API-related files for state management. It houses separate contexts for the calculator and billing features.
-/pages: Contains main application pages, such as CalculatorApp and BillingApp.
-index.js and App.js: Entry points for the React application.
-Getting Started
-Prerequisites
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Calculator Module:** Basic calculator functionality with addition, subtraction, multiplication, and division.
+- **Billing Module:** Simple billing functionality with the ability to add amounts and reset the total.
+
+## Project Structure
+
+The project is organized into the following main directories:
+
+- **/components:** Contains individual React components, such as the Calculator and Billing components.
+- **/context:** Includes Context API-related files for state management. It houses separate contexts for the calculator and billing features.
+- **/pages:** Contains main application pages, such as CalculatorApp and BillingApp.
+- **index.js and App.js:** Entry points for the React application.
+
+## Getting Started
+
+### Prerequisites
+
 Make sure you have the following installed:
 
-Node.js
-npm (comes with Node.js)
-Installation
-Clone the repository:
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
 
-git clone 
-cd react-calculator-billing-app
-Install dependencies:
+### Installation
 
-npm install
+1. Clone the repository:
 
-npm start
-Open your browser and visit http://localhost:3000 to view the application.
-
-Explore the calculator and billing features, and use the app as a learning resource for React development and state management.
+   ```bash
+   git clone https://github.com/gautam-gupta-se/react-calculator-billing-app.git
+```
