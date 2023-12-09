@@ -53,6 +53,4 @@ Make sure you have the following installed:
     ```
 ### Usage
 1.Start the development server:
-
-     ```bash
        npm start
