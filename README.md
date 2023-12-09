@@ -10,8 +10,6 @@ This project is a simple React application that includes a calculator and a bill
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -42,4 +40,17 @@ Make sure you have the following installed:
 
    ```bash
    git clone https://github.com/gautam-gupta-se/react-calculator-billing-app.git
-```
+2. Navigate to the project directory:
+   
+  ```bash
+  cd react-calculator-billing-app
+3. Install dependencies:
+   
+  ```bash
+  npm install
+
+###
+1.Start the development server:
+
+   ```bash
+   npm start
